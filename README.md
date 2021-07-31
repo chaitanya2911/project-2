@@ -4,7 +4,9 @@
 
 ### This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not.
 
-Variable | Description
+#### dataset Attributes are self explainatory :)
+
+Attributes | Description
 ----------|--------------
 Loan_ID | Unique Loan ID
 Gender | Male/ Female
